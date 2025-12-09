@@ -57,8 +57,8 @@ More projects → [github.com/your-username](https://github.com/your-username?ta
 
 ### 📫 Let’s Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)]([https://twitter.com/your-twitter](https://x.com/C_ki6e?t=ejOB3vA7g_Dfg_0YnEODtQ&s=09))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://github.com/Collinse-lab/Collinse-lab-Collinse-lab.git))  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/C_ki6e?t=ejOB3vA7g_Dfg_0YnEODtQ&s=09)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://github.com/Collinse-lab/Collinse-lab-Collinse-lab.git)  
 ✉️ kibetcollins41@gmail.com
 
 > “I’m not a genius. I’m just a tremendous bundle of experience.” – R. Buckminster Fuller  
