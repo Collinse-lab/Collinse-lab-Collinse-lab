@@ -31,7 +31,7 @@ Next.js, TypeScript, Testing (Jest + React Testing Library)
 | Project | Description | Tech | Live | Code |
 |-------|-------------|------|------|------|
 | Portfolio 2025 | My personal portfolio built with React + Vite + Tailwind | React, Tailwind, Framer Motion | [Live Demo](https://yourname.dev) | [Source][(https://github.com/Collinse-lab/Collinse-lab-Collinse-lab.git)]|
-| E-Commerce Store | Fully responsive fake store with cart & filtering | React, Context API, Fake Store API | [Live](https://react-store-example.netlify.app) | [Source](https://github.com/your-username/react-ecommerce) |
+| E-Commerce Store | Fully responsive fake store with cart & filtering | React, Context API, Fake Store API | [Live](https://react-store-example.netlify.app) | [Source](https://github.com/Collinse-lab/FrontEnd-languages.git) |
 | TaskFlow | Advanced task manager with drag-and-drop, dark mode & local storage | React, react-beautiful-dnd, Tailwind | [Live](https://taskflow-example.netlify.app) | [Source](https://github.com/your-username/taskflow) |
 | Weather App | Beautiful weather dashboard with geolocation & forecasts | React, OpenWeatherMap API, Chart.js | [Live](https://weather-app-example.netlify.app) | [Source](https://github.com/your-username/weather-app) |
 
