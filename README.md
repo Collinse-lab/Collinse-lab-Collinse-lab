@@ -35,7 +35,7 @@ Next.js, TypeScript, Testing (Jest + React Testing Library)
 | TaskFlow | Advanced task manager with drag-and-drop, dark mode & local storage | React, react-beautiful-dnd, Tailwind | [Live](https://taskflow-example.netlify.app) | [Source](https://github.com/your-username/taskflow) |
 | Weather App | Beautiful weather dashboard with geolocation & forecasts | React, OpenWeatherMap API, Chart.js | [Live](https://weather-app-example.netlify.app) | [Source](https://github.com/your-username/weather-app) |
 
-More projects → [github.com/your-username](https://github.com/your-username?tab=repositories)
+More projects → (https://github.com/Collinse-lab)(https://github.com/your-username?tab=repositories)
 
 <br/>
 
@@ -64,4 +64,4 @@ More projects → [github.com/your-username](https://github.com/your-username?ta
 > “I’m not a genius. I’m just a tremendous bundle of experience.” – R. Buckminster Fuller  
 > (And a lot of Stack Overflow tabs)
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [Collinse-lab](https://github.com/Collinse-lab)
