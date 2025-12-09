@@ -13,27 +13,24 @@ Passionate about clean code, modern JavaScript, and building user interfaces tha
 <br/>
 
 Core Skills
-- HTML5 & Semantic Markup  
-- CSS3 (Flexbox, Grid, Animations, Responsive Design)  
+- HTML5 & Semantic Markup    
 - Modern JavaScript (ES6+, Async/Await, Modules)  
 - React.js (Hooks, Context API, Functional Components)  
-- State Management (useState, useReducer, Context)  
-- Styling: Tailwind CSS, Styled-Components, CSS Modules  
+- State Management (useState, useReducer, Context)   
 - Tools: Git & GitHub, Vite, npm/yarn/pnpm, VS Code  
 
 Currently Learning  
-Next.js, TypeScript, Testing (Jest + React Testing Library)
+Certified Full-Stack Developer Curriculum ([(https://www.freecodecamp.org/)])
 
 <br/>
 
 ### 🔥 Featured Projects
 
-| Project | Description | Tech | Live | Code |
-|-------|-------------|------|------|------|
-| Portfolio 2025 | My personal portfolio built with React + Vite + Tailwind | React, Tailwind, Framer Motion | [Live Demo](https://yourname.dev) | [Source][(https://github.com/Collinse-lab/Collinse-lab-Collinse-lab.git)]|
-| E-Commerce Store | Fully responsive fake store with cart & filtering | React, Context API, Fake Store API | [Live](https://react-store-example.netlify.app) | [Source](https://github.com/Collinse-lab/FrontEnd-languages.git) |
-| TaskFlow | Advanced task manager with drag-and-drop, dark mode & local storage | React, react-beautiful-dnd, Tailwind | [Live](https://taskflow-example.netlify.app) | [Source](https://github.com/your-username/taskflow) |
-| Weather App | Beautiful weather dashboard with geolocation & forecasts | React, OpenWeatherMap API, Chart.js | [Live](https://weather-app-example.netlify.app) | [Source](https://github.com/your-username/weather-app) |
+| Project | Description | Tech | Code |
+|-------|-------------|------|------|
+| Portfolio 2025 | My personal portfolio built with React | React, Framer Motion | [Source](https://github.com/Collinse-lab/Collinse-lab-Collinse-lab.git)]|
+| HTML and CSS projects | Contain several HTML and CSS projects written for learning purposes | HTML, CSS | [Source](https://github.com/Collinse-lab/FrontEnd-languages.git) |
+| Contact searching | Seaches the contact and checks whether the contact is available | React | [Source)](https://github.com/Collinse-lab/Contact.dev.git)|
 
 More projects → [(https://github.com/Collinse-lab)](https://github.com/Collinse-lab?tab=repositories)
 
