@@ -59,7 +59,7 @@ More projects → [github.com/your-username](https://github.com/your-username?ta
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/your-twitter)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://yourname.dev)  
-✉️ your.email@gmail.com
+✉️ kibetcollins41@gmail.com
 
 > “I’m not a genius. I’m just a tremendous bundle of experience.” – R. Buckminster Fuller  
 > (And a lot of Stack Overflow tabs)
