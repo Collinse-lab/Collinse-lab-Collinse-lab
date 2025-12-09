@@ -56,7 +56,7 @@ More projects → [github.com/your-username](https://github.com/your-username?ta
 - Daily coding challenges on Frontend Mentor & LeetCode  
 
 ### 📫 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/collins-kibet-bb172621a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://x.com/C_ki6e?t=ejOB3vA7g_Dfg_0YnEODtQ&s=09)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4)](https://github.com/Collinse-lab/Collinse-lab-Collinse-lab.git)  
 ✉️ kibetcollins41@gmail.com
